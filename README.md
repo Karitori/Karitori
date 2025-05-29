@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Hany</h1>
 <h3 align="center">A senior computer science student. Looking for an opportunity as a data scientist to widen my knowledge in Machine Learning and Deep Learning while working on real life projects and facing realistic challenges in an environment that would push me to polish my skills and gain valuable experience. learning techniques.</h3>
 
-- 🔭 I’m currently working on **DevOps Bachelor's Project**
+- 🔭 I’m currently working as a **GenAI Engineer**
 
 - 🌱 I’m currently learning **Jenkins**
 
