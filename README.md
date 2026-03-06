@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Hany</h1>
-<h3 align="center">A senior computer science student. Looking for an opportunity as a data scientist to widen my knowledge in Machine Learning and Deep Learning while working on real life projects and facing realistic challenges in an environment that would push me to polish my skills and gain valuable experience. learning techniques.</h3>
+<h3 align="center">A GenAI Engineer at Henkel GBS+.</h3>
 
 - 🔭 I’m currently working as a **GenAI Engineer**
 
-- 🌱 I’m currently learning **Jenkins**
+- 🌱 I’m currently learning **IaC**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Karitori]
+- 👨‍💻 Some of my projects are available at [https://github.com/Karitori]
 
 - 📫 How to reach me **abdelrahman.hany.aly@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_a6CaAmdNEnW1YBh3kTPOii4tfY_sS3K/view?usp=sharing](https://drive.google.com/file/d/1_a6CaAmdNEnW1YBh3kTPOii4tfY_sS3K/view?usp=sharing)
+- 📄 Know about my experience on LinkedIn
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
